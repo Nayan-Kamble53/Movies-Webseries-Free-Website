@@ -1,0 +1,55 @@
+@media screen and (max-width: 500px) {
+    nav {
+        height: 10vh;
+    }
+
+    nav ul {
+        font-size: 1rem;
+    }
+
+    nav ul li {
+        margin: 0;
+    }
+
+    .movies {
+        margin-top: 15px;
+        margin-bottom: 0;
+    }
+
+    .movies ul li {
+        font-size: 1.5rem;
+    }
+
+    .card {
+        height: 30vh;
+    }
+
+    .img {
+        height: 30vh;
+    }
+    .logo img {
+        position: relative;
+        top: 22%;
+        width: 8vw;
+        height: 5vh;
+        border-radius: 50%;
+        padding: 0 25px;
+    }
+
+    .logo1 img {
+        position: relative;
+        left: -20%;
+        top: 25%;
+        width: 10vw;
+        border-radius: 50%;
+    }
+    
+    .logo2 img {
+        position: relative;
+        right: -20%;
+        top: 25%;
+        width: 10vw;
+        border-radius: 50%;
+    }
+    
+}
